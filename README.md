@@ -5,10 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my self
-- 🌱 I’m currently learning Bioinformatic Engineering
-<!-- 👯 I’m looking to collaborate on ...-->
-<!--- 🤔 I’m looking for help with ...-->
-- 💬 Ask me about: Math, Phisics, Computer Science
+- 🌱 I’m currently learning Automation and Control System Engineering
+- 💬 Ask me about: Math, Phisics, Computer Science and Automation
 - 📫 How to reach me: m.degregorio1702@gmail.com
-<!--- ⚡ Fun fact: -->
 
